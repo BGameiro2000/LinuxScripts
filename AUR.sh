@@ -41,6 +41,7 @@ PACKAGES+="
 
 #Utils
 PACKAGES+="
+    firmware-manager-git
 "
 
 #Check if yay is installed, if not asked if user wants to install it.
